@@ -1,0 +1,169 @@
+@media(max-width:1200px){
+
+    
+}
+
+/* desktop view */
+
+@media(max-width:992px){
+
+
+} 
+
+/* laptop view*/
+
+@media(max-width:768px){
+    .sec-right img {
+        width: 176%;
+        padding-top: 131px;
+    }
+
+    .sec1-row {
+        margin-top: -30px;
+        padding-left: 50px;
+    }
+    .left {
+        margin-top: 137px;
+    }
+    .left img {
+        width: 96%;
+    }
+    .right-1 {
+        margin-top: 155px;
+    }
+    .right-1 img {
+        width: 118%;
+    }
+    .left-1 a {
+        
+        padding: 10px 20px;
+  ;
+    }
+    .left-2 {
+        margin-top: 99px;
+    }
+    .footer {width: 100%;
+    }
+
+}
+
+/* tablet view*/
+
+@media(max-width:576px){
+
+   
+    .sec-left {
+        flex-basis: 100%;
+        margin-top: 50px;
+    }
+    .sec-right img {
+        width: 125%;
+    }
+    .sec-right {
+        flex-basis: 100%;
+
+    }
+    .sec-2 h2 {
+    
+        margin-top: 50px;
+ 
+    }
+    .our-visson {
+
+        margin: 30px 0px;
+    }
+    
+    .sec-left h1 {
+       
+    
+        font-size: 28px;
+
+}
+.our-misson,.our-visson,.our-goal{
+    flex-basis: 100%;
+}
+.left {
+    flex-basis: 100%;
+}
+.left img {
+    width: 89%;
+}
+right h1{
+    font-size: 28px;
+}
+.right {
+    flex-basis: 100%;
+
+}
+.right {
+  
+    margin-top: 88px;
+}
+.right p {
+ 
+    font-size: 16px;
+}
+.left-1 {
+    flex-basis: 100%;
+  
+}
+.sec-4-row {
+
+    margin-top: 0px;
+}
+.right-1 {
+    flex-basis: 100%;
+}
+.right-1 img {
+    width: 87%;
+    margin-top: 40px;
+}
+.right-2 {
+    flex-basis: 100%;
+
+}
+.left-1{flex-basis: 100%;}
+.left-2 img {
+    width: 82%;
+}
+.sec-5-row {
+
+    margin-top: 63px;
+}
+.left-2 {
+    flex-basis: 100%;
+}
+.left-1 p {
+
+    font-size: 16px;
+}
+.right-2 p {
+    font-size: 16px;
+}
+.left-1 a {
+    
+    padding: 10px 20px;
+}
+.footer {
+
+    padding: 19px;
+    width: 100%;
+}
+.right-1 {
+    margin-top: 7px;
+    margin-bottom: 43px;
+}
+.left-2 {
+    margin-top: 0px;
+}
+.sec-5 h1 {
+    
+    width: 100%;
+}
+.sec-2 h2 {
+    width: 100%;
+   
+}
+}
+/* mobile view */
+
